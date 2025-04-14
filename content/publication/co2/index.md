@@ -42,8 +42,8 @@ publication_short: In *ICLR 2024 (Spotlight)*
 # tags:
 #   - Large Language Models
 
-# Display this page in the Featured widget?
-featured: true
+# # Display this page in the Featured widget?
+# featured: true
 
 # Custom links (uncomment lines below)
 # links:

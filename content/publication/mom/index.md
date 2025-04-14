@@ -1,14 +1,14 @@
 ---
-title: 'Linear-MoE: Linear Sequence Modeling Meets Mixture-of-Experts'
+title: 'MoM: Linear Sequence Modeling with Mixture-of-Memories'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Jusen Du
   - admin
   - Disen Lan
-  - Tong Zhu
-  - Xiaoye Qu
+  - Jiaxi Hu
   - Yu Cheng
 
 # # Author notes (optional)
@@ -29,7 +29,7 @@ date: '2025-12-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: In *International Conference on Learning Representations 2024*
-publication_short: In *ICLR 2025-SCOPE Workshop (Oral)*
+# publication_short: In *ICLR 2025-SCOPE Workshop (Oral)*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -47,8 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2503.05447'
-url_code: 'https://github.com/OpenSparseLLMs/Linear-MoE'
+url_pdf: 'https://arxiv.org/abs/2502.13685'
+url_code: 'https://github.com/OpenSparseLLMs/MoM'
 url_dataset: ''
 url_poster: ''
 url_project: ''
