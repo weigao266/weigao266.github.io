@@ -5,7 +5,7 @@ title: 'CO2: Efficient distributed training with full communication-computation 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Weigao Sun
+  - admin
   - Zhen Qin
   - Weixuan Sun
   - Shidi Li
@@ -19,7 +19,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-# date: '2013-07-01T00:00:00Z'
+date: '2024'
 # doi: ''
 
 # # Schedule page publish date (NOT publication's date).

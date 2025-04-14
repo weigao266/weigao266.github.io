@@ -190,6 +190,6 @@ I am a Young Scientist at Shanghai AI Laboratory. Currently, I closely collabora
 
 See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE), [Linearization](https://github.com/OpenSparseLLMs/Linearization) and [MoM](https://github.com/OpenSparseLLMs/MoM) for technical details.
 
-🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested.
+🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested. Also I am always open-mind to any other cooperations. 
 
 From 2020 to 2022, I was a Research Staff Member at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
