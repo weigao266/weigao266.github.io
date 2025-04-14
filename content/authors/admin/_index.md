@@ -183,12 +183,12 @@ interests:
 
 ## About Me
 
-I am a Young Scientist at Shanghai AI Laboratory. Currently, I closely collaborate with Prof. Yu Cheng, and work on the revolution of foundational model architecture, including algorithm and system co-innovations on Linear Sequence Modeling (Linear Attention) and Mixture-of-Experts.
+I am a Young Scientist at Shanghai AI Laboratory. Currently, I closely collaborate with [Prof. Yu Cheng](https://ych133.github.io/), work on the revolution of foundational model architecture, including algorithm and system co-innovations on Linear Sequence Modeling (Linear Attention) and Mixture-of-Experts.
 
 See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE), [Linearization](https://github.com/OpenSparseLLMs/Linearization) and [MoM](https://github.com/OpenSparseLLMs/MoM) for technical details.
 
 🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested.
 
-I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
+From 2020 to 2022, I worked as a Research Staff Member at Linx Lab under Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
 
 # affiliated with the [Intelligent Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), supervised by [Prof Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en) and [Prof Ye Yuan](https://yy311.github.io/). 
