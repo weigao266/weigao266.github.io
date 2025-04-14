@@ -47,7 +47,7 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Efficient Sequence Modeling, especially Linear Attention
+  - Efficient Sequence Modeling (e.g. Linear Attention)
   - Mixture-of-Experts
   - Large Language Model
 
@@ -191,4 +191,4 @@ See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear
 
 🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested.
 
-From 2020 to 2022, I worked as a Research Staff Member at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
+From 2020 to 2022, I was a Research Staff Member at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
