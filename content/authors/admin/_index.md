@@ -9,9 +9,9 @@ title: Weigao Sun
 first_name: Weigao
 last_name: Sun
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

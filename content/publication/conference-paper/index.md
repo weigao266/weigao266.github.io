@@ -5,14 +5,14 @@ title: 'CO2: Efficient distributed training with full communication-computation 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Sun, Weigao 
-  - Qin, Zhen
-  - Sun, Weixuan
-  - Li, Shidi
-  - Li, Dong
-  - Shen, Xuyang
-  - Qiao, Yu
-  - Zhong, Yiran
+  - Weigao Sun
+  - Zhen Qin
+  - Weixuan Sun
+  - Shidi Li
+  - Dong Li
+  - Xuyang Shen
+  - Yu Qiao
+  - Yiran Zhong
 
 # # Author notes (optional)
 # author_notes:
@@ -31,8 +31,8 @@ authors:
 # publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Conference on Learning Representations 2024*
-publication_short: In *ICLR 2024*
+# publication: In *International Conference on Learning Representations 2024*
+publication_short: In *ICLR 2024 (Spotlight)*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -82,7 +82,7 @@ url_video: ''
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -90,4 +90,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
