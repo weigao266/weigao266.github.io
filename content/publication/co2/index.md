@@ -1,5 +1,5 @@
 ---
-title: 'CO2: Efficient distributed training with full communication-computation overlap'
+title: 'CO2: Efficient Distributed Training with Full Communication-Computation Overlap'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

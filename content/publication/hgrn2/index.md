@@ -1,5 +1,5 @@
 ---
-title: 'Hgrn2: Gated linear rnns with state expansion'
+title: 'HGRN2: Gated Linear RNNs with State Expansion'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,7 +10,7 @@ authors:
   - Weixuan Sun
   - Xuyang Shen
   - Dong Li
-  - Weigao Sun
+  - admin
   - Yiran Zhong
 
 # # Author notes (optional)

@@ -1,5 +1,5 @@
 ---
-title: 'Scaling laws for linear complexity language models'
+title: 'Scaling Laws for Linear Complexity Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -9,7 +9,7 @@ authors:
   - Dong Li
   - Ruitao Leng
   - Zhen Qin
-  - Weigao Sun
+  - admin
   - Yiran Zhong
 
 # # Author notes (optional)

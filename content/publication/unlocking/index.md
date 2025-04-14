@@ -1,5 +1,5 @@
 ---
-title: 'Unlocking the secrets of linear complexity sequence model from a unified perspective'
+title: 'Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +8,7 @@ authors:
   - Zhen Qin
   - Xuyang Shen
   - Dong Li
-  - Weigao Sun
+  - admin
   - Stan Birchfield
   - Richard Hartley
   - Yiran Zhong
@@ -31,7 +31,7 @@ date: '2024-12-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: In *International Conference on Learning Representations 2024*
-# publication_short: In *ICML 2024*
+publication_short: In *arXiv preprint arXiv:2405.17383*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

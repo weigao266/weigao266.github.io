@@ -1,5 +1,5 @@
 ---
-title: 'Minimax-01: Scaling foundation models with lightning attention'
+title: 'Minimax-01: Scaling Foundation Models with Lightning Attention'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,7 +27,7 @@ date: '2025-12-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: In *International Conference on Learning Representations 2024*
-# publication_short: In *ICLR 2025-SCOPE Workshop (Oral)*
+publication_short: In *arXiv preprint arXiv:2501.08313*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
