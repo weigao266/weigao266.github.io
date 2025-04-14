@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孙伟高
+title: Weigao Sun
 
 # # Name pronunciation (optional)
 # name_pronunciation: Weigao Sun
@@ -47,9 +47,9 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Efficient Sequence Modeling
+  - Efficient Sequence Modeling, especially Linear Attention
+  - Mixture-of-Experts
   - Large Language Model
-  - Artificial Intelligence
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -179,6 +179,8 @@ interests:
 #     icon: datacamp
 #     summary: |
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+
+# affiliated with the [Intelligent Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), supervised by [Prof Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en) and [Prof Ye Yuan](https://yy311.github.io/). 
 ---
 
 ## About Me
@@ -189,6 +191,4 @@ See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear
 
 🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested.
 
-From 2020 to 2022, I worked as a Research Staff Member at Linx Lab under Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
-
-# affiliated with the [Intelligent Manufacturing and Data Science Laboratory](http://imds.aia.hust.edu.cn/index.htm), supervised by [Prof Hai-Tao Zhang](https://scholar.google.com/citations?user=y089Rj8AAAAJ&hl=en) and [Prof Ye Yuan](https://yy311.github.io/). 
+From 2020 to 2022, I worked as a Research Staff Member at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant). Before that, I received my B.E. degree from China University of Mining and Technology at 2015.06.
