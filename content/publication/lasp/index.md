@@ -1,5 +1,5 @@
 ---
-title: 'CO2: Efficient distributed training with full communication-computation overlap'
+title: 'Linear Attention Sequence Parallelism'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,8 +7,6 @@ title: 'CO2: Efficient distributed training with full communication-computation 
 authors:
   - admin
   - Zhen Qin
-  - Weixuan Sun
-  - Shidi Li
   - Dong Li
   - Xuyang Shen
   - Yu Qiao
@@ -19,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2024-09-01T00:00:00Z'
+date: '2024-10-01T00:00:00Z'
 # doi: ''
 
 # # Schedule page publish date (NOT publication's date).
@@ -32,7 +30,7 @@ date: '2024-09-01T00:00:00Z'
 
 # Publication name and optional abbreviated publication name.
 # publication: In *International Conference on Learning Representations 2024*
-publication_short: In *ICLR 2024 (Spotlight)*
+# publication_short: In *ICLR 2024 (Spotlight)*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -50,8 +48,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2401.16265'
-url_code: 'https://github.com/OpenNLPLab/CO2'
+url_pdf: 'https://arxiv.org/abs/2404.02882'
+url_code: 'https://github.com/OpenNLPLab/LASP'
 url_dataset: ''
 url_poster: ''
 url_project: ''
