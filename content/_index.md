@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-04-14
 type: landing
 
 design:
@@ -54,15 +54,18 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
+    id: papers
     content:
       title: Recent Papers
       text: ""
+      count: 0
       filters:
         folders:
           - publication
         exclude_featured: false
-    design:
-      view: citation
+      design:
+        view: citation
+        columns: 2
   # - block: collection
   #   id: talks
   #   content:
