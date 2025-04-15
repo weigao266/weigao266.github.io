@@ -5,9 +5,8 @@ title: 'Minimax-01: Scaling Foundation Models with Lightning Attention'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - xxx
   - admin
-  - xxx
+  - et al
 
 # # Author notes (optional)
 # author_notes:

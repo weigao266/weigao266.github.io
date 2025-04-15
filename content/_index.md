@@ -58,7 +58,7 @@ sections:
     content:
       title: Recent Papers
       text: ""
-      count: 10
+      count: 6
       filters:
         folders:
           - publication
