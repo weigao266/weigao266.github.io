@@ -58,14 +58,13 @@ sections:
     content:
       title: Recent Papers
       text: ""
-      count: 5
+      count: 10
       filters:
         folders:
           - publication
         exclude_featured: false
     design:
       view: citation
-      columns: 2
   # - block: collection
   #   id: talks
   #   content:
