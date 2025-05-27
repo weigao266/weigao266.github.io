@@ -186,10 +186,15 @@ interests:
 
 ## About Me
 
-I am a Young Scientist at Shanghai AI Laboratory. Currently, I closely collaborate with [Prof. Yu Cheng](https://ych133.github.io/), work on the revolution of foundational model architecture, including algorithm and system co-innovations on Linear Sequence Modeling (Linear Attention) and Mixture-of-Experts.
+I am a Young Scientist at Shanghai AI Laboratory. Currently, I fortunately collaborate with [Prof. Yu Cheng](https://ych133.github.io/), work on the revolution of foundational model architecture, including algorithm and system co-innovations on Linear Sequence Modeling (Linear Attention) and Mixture-of-Experts.
 
-See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE), [Linearization](https://github.com/OpenSparseLLMs/Linearization) and [MoM](https://github.com/OpenSparseLLMs/MoM) for technical details.
+See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE), [Linearization](https://github.com/OpenSparseLLMs/Linearization) and [MoM](https://github.com/OpenSparseLLMs/MoM) for technical details. My previous work [Lightning Attention](https://arxiv.org/abs/2405.17381) and [LASP](https://arxiv.org/abs/2404.02882) series are the key techniques in [MiniMax-01](https://arxiv.org/abs/2501.08313) 456B LLM and VLM.
 
-🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested. Also I am always open-mind to any other cooperations. 
+🔥 ***I am looking for talented interns to work with me on above projects and beyond.*** Please feel free to hit me up with your CV or any questions if you are interested.
 
-From 2020 to 2022, I was a Research Staff Member at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/). I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant).
+From 2020 to 2022, I was an AI Researcher at Linx Lab, Turing Architecture and Design Department at 2012 Lab, Huawei, supervised by Jiashu Lin and [Heng Liao](https://www.linkedin.com/in/heng-liao/), worked on large scale distributed training algorithms (see [CO2](https://arxiv.org/abs/2401.16265)). 
+I led to collaborate with Pengcheng Laboratory to complete the ranking of [MLPerf V1.0](https://mlcommons.org/benchmarks/training/), and completed the training of ResNet50 and Bert on up to 1000 Ascend 910 chips. During at Huawei, I served as the project leader for the Huawei side of Science and Technology Innovation 2030 – Next Generation Artificial Intelligence Major Project.
+
+I earned my PhD degree from Huazhong University of Science and Technology (HUST) at 2020.04, co-supervised by [Prof. Hai-Tao Zhang](http://imds.aia.hust.edu.cn/index.htm) and [Prof. Ye Yuan](https://yy311.github.io/), and jointly trained at School of Artificial Intelligence and Automation (AIA) and HUST Innovation Institute (with the First-class Grant).
+
+(Updated at 2025.05)
