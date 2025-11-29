@@ -186,7 +186,7 @@ interests:
 
 ## About Me
 
-I am a Young Scientist at Shanghai AI Laboratory. Currently, I fortunately collaborate with [Prof. Yu Cheng](https://ych133.github.io/), work on efficient model architecture for LLMs/VLMs, including algorithm & system co-design on Linear Sequence Modeling (e.g., Linear Attention) and Mixture-of-Experts.
+I am a Young Scientist at Shanghai AI Laboratory. Currently, I fortunately collaborate with [Prof. Yu Cheng](https://ych133.github.io/), work on efficient model architecture for LLMs/VLMs, including algorithm & system co-design on Efficient Sequence Modeling (e.g., Linear Attention) and Mixture-of-Experts.
 
 See our research projects: [Linear-MoE](https://github.com/OpenSparseLLMs/Linear-MoE), [Linearization (Liger)](https://github.com/OpenSparseLLMs/Linearization), [MoM](https://github.com/OpenSparseLLMs/MoM) and [Comba](https://github.com/AwesomeSeq/Comba-triton) for technical details. My previous work [Lightning Attention](https://arxiv.org/abs/2405.17381) and [LASP](https://arxiv.org/abs/2404.02882) series are the key techniques in [MiniMax-01](https://arxiv.org/abs/2501.08313) 456B LLM and VLM.
 
