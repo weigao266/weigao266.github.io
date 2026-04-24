@@ -47,7 +47,8 @@ profiles:
   #   url: https://orcid.org/
 
 interests:
-  - Efficient Sequence Modeling (e.g., Linear Attention, Sparse Attention)
+  - Efficient Architectures
+  - Linear Attention / Sparse Attention
   - Mixture-of-Experts
   - Large Language Model
   - Vision Language Model
