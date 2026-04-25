@@ -50,8 +50,8 @@ interests:
   - Efficient Architectures
   - Linear Attention / Sparse Attention
   - Mixture-of-Experts
-  - Large Language Model
-  - Vision Language Model
+  - Large (Vision) Language Models
+  - Distributed Training
 
 # education:
 #   - area: PhD Artificial Intelligence
